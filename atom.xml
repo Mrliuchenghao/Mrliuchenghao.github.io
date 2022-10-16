@@ -6,7 +6,7 @@
   <link href="http://mrliuchenghao.github.io/atom.xml" rel="self"/>
   
   <link href="http://mrliuchenghao.github.io/"/>
-  <updated>2022-10-14T15:33:52.285Z</updated>
+  <updated>2022-10-16T13:12:44.947Z</updated>
   <id>http://mrliuchenghao.github.io/</id>
   
   <author>
@@ -17,20 +17,16 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>第一次测试</title>
+    <title>一次测试</title>
     <link href="http://mrliuchenghao.github.io/2022/10/14/test/"/>
     <id>http://mrliuchenghao.github.io/2022/10/14/test/</id>
     <published>2022-10-13T16:00:00.000Z</published>
-    <updated>2022-10-14T15:33:52.285Z</updated>
+    <updated>2022-10-16T13:12:44.947Z</updated>
     
-    <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>学习写博客<br>##<br>让写博客成为一种习惯</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="学习写博客"><a href="#学习写博客" class="headerlink" title="学习写博客"></a>学习写博客</h1><h2 id="让写博客成为一种习惯"><a href="#让写博客成为一种习惯" class="headerlink" title="让写博客成为一种习惯"></a>让写博客成为一种习惯</h2><pre class="line-numbers language-none"><code class="language-none">#include&lt;iostream&gt;using namespace std;int main()&#123;    printf(&quot;hello world!!!&quot;);    return 0;&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;学习写博客&lt;br&gt;##&lt;br&gt;让写博客成为一种习惯&lt;/p&gt;
-</summary>
-      
+    <summary type="html">这是一次测试</summary>
     
     
     
