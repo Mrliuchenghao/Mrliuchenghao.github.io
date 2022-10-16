@@ -11,12 +11,6 @@
         <content type="html"><![CDATA[<h1 id="学习写博客"><a href="#学习写博客" class="headerlink" title="学习写博客"></a>学习写博客</h1><h2 id="让写博客成为一种习惯"><a href="#让写博客成为一种习惯" class="headerlink" title="让写博客成为一种习惯"></a>让写博客成为一种习惯</h2><pre class="line-numbers language-none"><code class="language-none">#include&lt;iostream&gt;using namespace std;int main()&#123;    printf(&quot;hello world!!!&quot;);    return 0;&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
       
       
-      <categories>
-          
-          <category> 学习 </category>
-          
-      </categories>
-      
       
         <tags>
             
